@@ -1,40 +1,196 @@
 {
-    "movies": [
+  "movies": [
+    {
+      "id": 1,
+      "title": "Arrival",
+      "releaseYear": "2016",
+      "director": "Denis Villeneuve",
+      "mainCast": [
+        "Amy Adams",
+        "Jeremy Renner",
+        "Forest Whitaker"
+      ],
+      "awards": [
         {
-            "id": 1,
-            "title": "Arrival",
-            "releaseYear": "2016",
-            "director": "Denis Villeneuve",
-            "mainCast": [
-                "Amy Adams",
-                "Jeremy Renner",
-                "Forest Whitaker"
-            ],
-            "awards": [
-                {
-                    "name": "Oscar",
-                    "category": "Best Sound Editing",
-                    "year": "2016"
-                },
-                {
-                    "name": "Critics' Choice Awards",
-                    "category": "Best Sci-Fi/Horror Movie",
-                    "year": "2016"
-                }
-            ],
-            "genre": "sci-fi",
-            "distributor": "Paramount Pictures",
-            "runningTime": 116,
-            "rating": 9.47
-        }
-    ],
-    "bookings": [
+          "name": "Oscar",
+          "category": "Best Sound Editing",
+          "year": "2016"
+        },
         {
-            "id": 1,
-            "fullName": "George Martin",
-            "bookingDate": "Thu May 09 2024 13:15:11 GMT+0200 (Central European Summer Time)",
-            "daysBooked": 7,
-            "movieId": 1
+          "name": "Critics' Choice Awards",
+          "category": "Best Sci-Fi/Horror Movie",
+          "year": "2016"
         }
-    ]
+      ],
+      "genre": "sci-fi",
+      "distributor": "Paramount Pictures",
+      "runningTime": 116,
+      "rating": 9.47
+    },
+    {
+      "title": "Howl's Moving Castle",
+      "releaseYear": "2004",
+      "director": "Hayao Miyazaki",
+      "mainCast": [
+        "Christian Bale",
+        "Jean Simmons",
+        "Billy Crystal"
+      ],
+      "awards": [
+        {
+          "name": "Sitges",
+          "category": "Public's Prize",
+          "year": "2004"
+        }
+      ],
+      "genre": "fantasy",
+      "distributor": "Ghibli",
+      "runningTime": 119,
+      "rating": 8.2,
+      "id": 2
+    },
+    {
+      "title": "Solaris",
+      "releaseYear": "1972",
+      "director": "Andrei Tarkovsky",
+      "mainCast": [
+        "Natalya Bondarchuk",
+        "Donatas Banionis",
+        "Juri Jarvet"
+      ],
+      "awards": [
+        {
+          "name": "Cannes Film Festival",
+          "category": "Grand Prize of the Jury",
+          "year": "1972"
+        }
+      ],
+      "genre": "sci-fi",
+      "distributor": "Mosfilm",
+      "runningTime": 167,
+      "rating": 8,
+      "id": 3
+    },
+    {
+      "title": "When Harry Met Sally",
+      "releaseYear": "1989",
+      "director": "Rob Reiner",
+      "mainCast": [
+        "Billy Crystal",
+        "Meg Ryan",
+        "Carrie Fisher"
+      ],
+      "awards": [
+        {
+          "name": "BAFTA Film Award",
+          "category": "Best Original Screenplay",
+          "year": "1990"
+        }
+      ],
+      "genre": "rom-com",
+      "distributor": "Columbia Pictures",
+      "runningTime": 96,
+      "rating": 7.7,
+      "id": 4
+    },
+    {
+      "title": "Memento",
+      "releaseYear": "2000",
+      "director": "Christopher Nolan",
+      "mainCast": [
+        "Guy Pearce",
+        "Carrie-Ann Moss",
+        "Joe Pantoliano"
+      ],
+      "awards": [
+        {
+          "name": "Critics' Choice Awards",
+          "category": "Best Screenplay",
+          "year": "2002"
+        }
+      ],
+      "genre": "suspense",
+      "distributor": "Newmarket",
+      "runningTime": 113,
+      "rating": 8.4,
+      "id": 5
+    },
+    {
+      "title": "Mulan",
+      "releaseYear": "1998",
+      "director": "Tony Bancroft",
+      "mainCast": [
+        "Ming-Na Wen",
+        "Eddie Murphy",
+        "BD Wong"
+      ],
+      "awards": [
+        {
+          "name": "International Film Music Critics Award",
+          "category": "Film Score of the Year",
+          "year": "1998"
+        },
+        {
+          "name": "Annie Awards",
+          "category": "Voie Acting by a Female Performer",
+          "year": "1998"
+        }
+      ],
+      "genre": "animation",
+      "distributor": "Disney",
+      "runningTime": 87,
+      "rating": 7.7,
+      "id": 6
+    },
+    {
+      "title": "Joker",
+      "releaseYear": "2019",
+      "director": "Todd Phillips",
+      "mainCast": [
+        "Joaquin Phoenix",
+        "Robert De Niro",
+        "Zazie Beetz"
+      ],
+      "awards": [
+        {
+          "name": "Oscar",
+          "category": "Best Actor",
+          "year": "2019"
+        },
+        {
+          "name": "BAFTA Film Award",
+          "category": "Original Music",
+          "year": "2020"
+        }
+      ],
+      "genre": "drama",
+      "distributor": "Warner Bros Pictures",
+      "runningTime": 122,
+      "rating": 8.4,
+      "id": 7
+    }
+  ],
+  "bookings": [
+    {
+      "id": 1,
+      "fullName": "George R. R. Martin",
+      "bookingDate": "Wed May 15 2024 02:00:00 GMT+0200 (hora de verano de Europa central)",
+      "daysBooked": 57,
+      "movieId": 1
+    },
+    {
+      "fullName": "Isabel Allende",
+      "bookingDate": "Wed Jan 01 2025 01:00:00 GMT+0100 (hora estándar de Europa central)",
+      "daysBooked": 2,
+      "movieId": 3,
+      "id": 2
+    },
+    {
+      "fullName": "Brandon Sanderson",
+      "bookingDate": "Fri May 10 2024 02:00:00 GMT+0200 (hora de verano de Europa central)",
+      "daysBooked": 7,
+      "movieId": 5,
+      "id": 4
+    }
+  ]
 }
