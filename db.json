@@ -1,0 +1,40 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Arrival",
+            "releaseYear": "2016",
+            "director": "Denis Villeneuve",
+            "mainCast": [
+                "Amy Adams",
+                "Jeremy Renner",
+                "Forest Whitaker"
+            ],
+            "awards": [
+                {
+                    "name": "Oscar",
+                    "category": "Best Sound Editing",
+                    "year": "2016"
+                },
+                {
+                    "name": "Critics' Choice Awards",
+                    "category": "Best Sci-Fi/Horror Movie",
+                    "year": "2016"
+                }
+            ],
+            "genre": "sci-fi",
+            "distributor": "Paramount Pictures",
+            "runningTime": 116,
+            "rating": 9.47
+        }
+    ],
+    "bookings": [
+        {
+            "id": 1,
+            "fullName": "George Martin",
+            "bookingDate": "Thu May 09 2024 13:15:11 GMT+0200 (Central European Summer Time)",
+            "daysBooked": 7,
+            "movieId": 1
+        }
+    ]
+}
