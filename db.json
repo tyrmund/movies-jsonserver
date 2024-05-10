@@ -2,6 +2,7 @@
   "movies": [
     {
       "id": 1,
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715325545/arrival_poster_good_ewl3f0.png",
       "title": "Arrival",
       "releaseYear": "2016",
       "director": "Denis Villeneuve",
@@ -10,6 +11,7 @@
         "Jeremy Renner",
         "Forest Whitaker"
       ],
+      "description": "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.",
       "awards": [
         {
           "name": "Oscar",
@@ -28,6 +30,8 @@
       "rating": 9.47
     },
     {
+      "id": 2,
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715325736/howlsmovingcastle_poster_socwyo.jpg",
       "title": "Howl's Moving Castle",
       "releaseYear": "2004",
       "director": "Hayao Miyazaki",
@@ -36,6 +40,7 @@
         "Jean Simmons",
         "Billy Crystal"
       ],
+      "description": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
       "awards": [
         {
           "name": "Sitges",
@@ -46,10 +51,11 @@
       "genre": "fantasy",
       "distributor": "Ghibli",
       "runningTime": 119,
-      "rating": 8.2,
-      "id": 2
+      "rating": 8.2
     },
     {
+      "id": 3,
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715325981/solaris_poster_qy9cx0.jpg",
       "title": "Solaris",
       "releaseYear": "1972",
       "director": "Andrei Tarkovsky",
@@ -58,6 +64,7 @@
         "Donatas Banionis",
         "Juri Jarvet"
       ],
+      "description": "A psychologist is sent to a space station orbiting a planet called Solaris to investigate the death of a doctor and the mental problems of cosmonauts on the station.",
       "awards": [
         {
           "name": "Cannes Film Festival",
@@ -68,10 +75,11 @@
       "genre": "sci-fi",
       "distributor": "Mosfilm",
       "runningTime": 167,
-      "rating": 8,
-      "id": 3
+      "rating": 8
     },
     {
+      "id": 4,
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715326156/harrysally_poster_ztfe8y.jpg",
       "title": "When Harry Met Sally",
       "releaseYear": "1989",
       "director": "Rob Reiner",
@@ -80,6 +88,7 @@
         "Meg Ryan",
         "Carrie Fisher"
       ],
+      "description": "The story follows the title characters from the time they meet in Chicago and share a drive to New York City through twelve years of chance encounters in New York.",
       "awards": [
         {
           "name": "BAFTA Film Award",
@@ -90,10 +99,11 @@
       "genre": "rom-com",
       "distributor": "Columbia Pictures",
       "runningTime": 96,
-      "rating": 7.7,
-      "id": 4
+      "rating": 7.7
     },
     {
+      "id": 5,
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715326233/memento_poster_j0i8v2.jpg",
       "title": "Memento",
       "releaseYear": "2000",
       "director": "Christopher Nolan",
@@ -102,6 +112,7 @@
         "Carrie-Ann Moss",
         "Joe Pantoliano"
       ],
+      "description": "A man with short-term memory loss attempts to track down his wife's murderer.",
       "awards": [
         {
           "name": "Critics' Choice Awards",
@@ -112,10 +123,10 @@
       "genre": "suspense",
       "distributor": "Newmarket",
       "runningTime": 113,
-      "rating": 8.4,
-      "id": 5
+      "rating": 8.4
     },
     {
+      "id": 6,
       "title": "Mulan",
       "image": "https://res.cloudinary.com/dc7ycwd1u/image/upload/v1715270325/mulan-md-web_zmmwoa.jpg",
       "releaseYear": "1998",
@@ -125,6 +136,7 @@
         "Eddie Murphy",
         "BD Wong"
       ],
+      "description": "To keep her ailing father from serving in the Imperial Army, a fearless young woman disguises herself as a man and battles northern invaders in China.",
       "awards": [
         {
           "name": "International Film Music Critics Award",
@@ -140,10 +152,11 @@
       "genre": "animation",
       "distributor": "Disney",
       "runningTime": 87,
-      "rating": 7.7,
-      "id": 6
+      "rating": 7.7
     },
     {
+      "id": 7,
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715326392/joker_poster_good_upprcd.jpg",
       "title": "Joker",
       "releaseYear": "2019",
       "director": "Todd Phillips",
@@ -152,6 +165,7 @@
         "Robert De Niro",
         "Zazie Beetz"
       ],
+      "description": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
       "awards": [
         {
           "name": "Oscar",
@@ -167,8 +181,7 @@
       "genre": "drama",
       "distributor": "Warner Bros Pictures",
       "runningTime": 122,
-      "rating": 8.4,
-      "id": 7
+      "rating": 8.4
     }
   ],
   "bookings": [
@@ -180,18 +193,18 @@
       "movieId": 1
     },
     {
+      "id": 2,
       "fullName": "Isabel Allende",
       "bookingDate": "Wed Jan 01 2025 01:00:00 GMT+0100 (hora estándar de Europa central)",
       "daysBooked": 2,
-      "movieId": 3,
-      "id": 2
+      "movieId": 3
     },
     {
+      "id": 4,
       "fullName": "Brandon Sanderson",
       "bookingDate": "Fri May 10 2024 02:00:00 GMT+0200 (hora de verano de Europa central)",
       "daysBooked": 7,
-      "movieId": 5,
-      "id": 4
+      "movieId": 5
     }
   ]
 }
