@@ -1,17 +1,20 @@
 {
   "movies": [
     {
-      "id": 1,
       "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715325545/arrival_poster_good_ewl3f0.png",
       "title": "Arrival",
       "releaseYear": "2016",
       "director": "Denis Villeneuve",
+      "description": "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.",
+      "genre": "sci-fi",
+      "distributor": "Paramount Pictures",
+      "runningTime": "116",
+      "rating": 7.9,
       "mainCast": [
         "Amy Adams",
         "Jeremy Renner",
         "Forest Whitaker"
       ],
-      "description": "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.",
       "awards": [
         {
           "name": "Oscar",
@@ -24,10 +27,7 @@
           "year": "2016"
         }
       ],
-      "genre": "sci-fi",
-      "distributor": "Paramount Pictures",
-      "runningTime": 116,
-      "rating": 7.9
+      "id": 1
     },
     {
       "id": 2,
@@ -155,17 +155,20 @@
       "rating": 7.7
     },
     {
-      "id": 7,
       "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715326392/joker_poster_good_upprcd.jpg",
       "title": "Joker",
       "releaseYear": "2019",
       "director": "Todd Phillips",
+      "description": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+      "genre": "drama",
+      "distributor": "Warner Bros Pictures",
+      "runningTime": 122,
+      "rating": 8.4,
       "mainCast": [
         "Joaquin Phoenix",
         "Robert De Niro",
         "Zazie Beetz"
       ],
-      "description": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
       "awards": [
         {
           "name": "Oscar",
@@ -178,33 +181,30 @@
           "year": "2020"
         }
       ],
-      "genre": "drama",
-      "distributor": "Warner Bros Pictures",
-      "runningTime": 122,
-      "rating": 8.4
+      "id": 7
     }
   ],
   "bookings": [
     {
       "id": 1,
       "fullName": "George R. R. Martin",
-      "bookingDate": "Wed May 15 2024 02:00:00 GMT+0200 (hora de verano de Europa central)",
+      "bookingDate": "Wed May 15 2024 02:00:00 GMT+0200 (Central European Summer Time)",
       "daysBooked": 57,
       "movieId": 1
     },
     {
       "id": 2,
       "fullName": "Isabel Allende",
-      "bookingDate": "Wed Jan 01 2025 01:00:00 GMT+0100 (hora estándar de Europa central)",
+      "bookingDate": "Wed Jan 01 2025 01:00:00 GMT+0100 (Central European Standard Time)",
       "daysBooked": 2,
       "movieId": 3
     },
     {
-      "id": 4,
       "fullName": "Brandon Sanderson",
-      "bookingDate": "Fri May 10 2024 02:00:00 GMT+0200 (hora de verano de Europa central)",
+      "bookingDate": "Fri May 10 2024 02:00:00 GMT+0200 (Central European Summer Time)",
       "daysBooked": 7,
-      "movieId": 5
+      "movieId": 5,
+      "id": 3
     }
   ]
 }
