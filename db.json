@@ -200,11 +200,11 @@
       "movieId": 3
     },
     {
+      "id": 3,
       "fullName": "Brandon Sanderson",
       "bookingDate": "Fri May 10 2024 02:00:00 GMT+0200 (Central European Summer Time)",
       "daysBooked": 7,
-      "movieId": 5,
-      "id": 3
+      "movieId": 5
     }
   ]
 }
