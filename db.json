@@ -8,7 +8,7 @@
       "description": "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.",
       "genre": "sci-fi",
       "distributor": "Paramount Pictures",
-      "runningTime": "116",
+      "runningTime": 116,
       "rating": 7.9,
       "mainCast": [
         "Amy Adams",
@@ -188,21 +188,21 @@
     {
       "id": 1,
       "fullName": "George R. R. Martin",
-      "bookingDate": "Wed May 15 2024 02:00:00 GMT+0200 (Central European Summer Time)",
+      "bookingDate": "Wed May 15 2024",
       "daysBooked": 57,
       "movieId": 1
     },
     {
       "id": 2,
       "fullName": "Isabel Allende",
-      "bookingDate": "Wed Jan 01 2025 01:00:00 GMT+0100 (Central European Standard Time)",
+      "bookingDate": "Wed Jan 01 2025",
       "daysBooked": 2,
       "movieId": 3
     },
     {
       "id": 3,
       "fullName": "Brandon Sanderson",
-      "bookingDate": "Fri May 10 2024 02:00:00 GMT+0200 (Central European Summer Time)",
+      "bookingDate": "Fri May 10 2024",
       "daysBooked": 7,
       "movieId": 5
     }
