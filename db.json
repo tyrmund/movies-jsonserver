@@ -30,17 +30,20 @@
       "rating": 7.9
     },
     {
-      "id": 2,
       "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715325736/howlsmovingcastle_poster_socwyo.jpg",
       "title": "Howl's Moving Castle",
       "releaseYear": "2004",
       "director": "Hayao Miyazaki",
+      "description": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+      "genre": "fantasy",
+      "distributor": "Ghibli",
+      "runningTime": 119,
+      "rating": 8.2,
       "mainCast": [
         "Christian Bale",
         "Jean Simmons",
         "Billy Crystal"
       ],
-      "description": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
       "awards": [
         {
           "name": "Sitges",
@@ -48,10 +51,7 @@
           "year": "2004"
         }
       ],
-      "genre": "fantasy",
-      "distributor": "Ghibli",
-      "runningTime": 119,
-      "rating": 8.2
+      "id": 2
     },
     {
       "id": 3,
@@ -78,17 +78,20 @@
       "rating": 8
     },
     {
-      "id": 4,
       "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715326156/harrysally_poster_ztfe8y.jpg",
       "title": "When Harry Met Sally",
       "releaseYear": "1989",
       "director": "Rob Reiner",
+      "description": "The story follows the title characters from the time they meet in Chicago and share a drive to New York City through twelve years of chance encounters in New York.",
+      "genre": "rom-com",
+      "distributor": "Columbia Pictures",
+      "runningTime": 96,
+      "rating": 7.7,
       "mainCast": [
         "Billy Crystal",
         "Meg Ryan",
         "Carrie Fisher"
       ],
-      "description": "The story follows the title characters from the time they meet in Chicago and share a drive to New York City through twelve years of chance encounters in New York.",
       "awards": [
         {
           "name": "BAFTA Film Award",
@@ -96,10 +99,7 @@
           "year": "1990"
         }
       ],
-      "genre": "rom-com",
-      "distributor": "Columbia Pictures",
-      "runningTime": 96,
-      "rating": 7.7
+      "id": 4
     },
     {
       "id": 5,
@@ -205,6 +205,13 @@
       "bookingDate": "Fri May 10 2024 02:00:00 GMT+0200 (hora de verano de Europa central)",
       "daysBooked": 7,
       "movieId": 5
+    },
+    {
+      "fullName": "Ironhacker",
+      "daysBooked": 6,
+      "bookingDate": "Mon May 20 2024",
+      "movieId": 3,
+      "id": 4
     }
   ]
 }
