@@ -182,6 +182,409 @@
         }
       ],
       "id": 7
+    },
+    {
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715788168/nottinghill_poster_n6pq8p.jpg",
+      "title": "Notting Hill",
+      "releaseYear": "1999",
+      "director": "Roger Michell",
+      "description": "A set of circumstances makes Anna Scott, a famous actress, fall in love with William Thacker, owner of a bookstore in Notting Hill. But the paparazzi's fascination with her complicates their bond.",
+      "genre": "Romance",
+      "distributor": "Universal Pictures",
+      "runningTime": 124,
+      "rating": "7.2",
+      "mainCast": [
+        "Hugh Grant",
+        "Julia Roberts"
+      ],
+      "awards": [
+        {
+          "name": "BAFTA Awards",
+          "category": "Audience Award",
+          "year": "2000"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715788721/yourname_poster_cwu4bj.jpg",
+      "title": "Your Name",
+      "releaseYear": "2016",
+      "director": "Makoto Shinkai",
+      "description": "Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person.",
+      "genre": "Animation",
+      "distributor": "Toho",
+      "runningTime": 106,
+      "rating": "8.4",
+      "mainCast": [
+        "Ryunosuke Kamiki",
+        "Mone Kamishiraishi"
+      ],
+      "awards": [
+        {
+          "name": "Sitges Film Festival",
+          "category": "Best Animated Feature Film",
+          "year": "2011"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715791908/inception_poster_tg1nyc.jpg",
+      "title": "Inception",
+      "releaseYear": "2012",
+      "director": "Christopher Nolan",
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+      "genre": "Action",
+      "distributor": "Warner Bros. Pictures",
+      "runningTime": 148,
+      "rating": "8.8",
+      "mainCast": [
+        "Leonardo DiCaprio",
+        "Ken Watanabe",
+        "Marion Cotillard"
+      ],
+      "awards": [
+        {
+          "name": "Oscar",
+          "category": "Best Achievement in Cinematography",
+          "year": "2011"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715792641/terminator_poster_pgi34i.jpg",
+      "title": "Terminator",
+      "releaseYear": "1984",
+      "director": "James Cameron",
+      "description": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",
+      "genre": "Sci-fi",
+      "distributor": "Orion Pictures",
+      "runningTime": 107,
+      "rating": "8.1",
+      "mainCast": [
+        "Arnold Schwarzenegger",
+        "Linda Hamilton",
+        "Michael Biehn"
+      ],
+      "awards": [
+        {
+          "name": "Saturn Awards",
+          "category": "Best Science Fiction Film",
+          "year": "1985"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715793173/seventhseal_poster_l8wuvw.jpg",
+      "title": "The Seventh Seal",
+      "releaseYear": "1957",
+      "director": "Ingmar Bergman",
+      "description": "A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.\n",
+      "genre": "Drama",
+      "distributor": "SF Studios",
+      "runningTime": 96,
+      "rating": "8.1",
+      "mainCast": [
+        "Max von Sydow",
+        "Gunnar Björnstrand",
+        "Bengt Ekerot"
+      ],
+      "awards": [
+        {
+          "name": "Cannes Film Festival",
+          "category": "Jury Special Prize",
+          "year": "1957"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715793398/poorthings_poster_kzorjw.jpg",
+      "title": "Poor Things",
+      "releaseYear": "2023",
+      "director": "Yorgos Lanthimos",
+      "description": "An account of the fantastical evolution of Bella Baxter, a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter.",
+      "genre": "Drama",
+      "distributor": "Searchlight Pictures",
+      "runningTime": 141,
+      "rating": "7.9",
+      "mainCast": [
+        "Emma Stone",
+        "Mark Ruffalo",
+        "Willen Dafoe"
+      ],
+      "awards": [
+        {
+          "name": "Oscar",
+          "category": "Best Actress in a Leading Role",
+          "year": "2024"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715794270/theroom_poster_jyzopr.jpg",
+      "title": "The Room",
+      "releaseYear": "2003",
+      "director": "Tommy Wiseau",
+      "description": "In San Francisco, an amiable banker's seemingly perfect life is turned upside down when his deceitful fiancée embarks on an affair with his best friend.",
+      "genre": "Drama",
+      "distributor": "Wiseau-Films",
+      "runningTime": 99,
+      "rating": "3.6",
+      "mainCast": [
+        "Tommy Wiseau",
+        "Greg Sestero",
+        "Juliette Danielle"
+      ],
+      "awards": [
+        {
+          "name": "New York Film & Festival",
+          "category": "Best Feature Film",
+          "year": "2004"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715845415/gatsby_poster_h8pmtw.jpg",
+      "title": "The Great Gatsby",
+      "releaseYear": "2013",
+      "director": "Baz Lurhmann",
+      "description": "A writer and wall street trader, Nick Carraway, finds himself drawn to the past and lifestyle of his mysterious millionaire neighbor, Jay Gatsby, amid the riotous parties of the Jazz Age.\n",
+      "genre": "Drama",
+      "distributor": "Warner Bros. Pictures",
+      "runningTime": 143,
+      "rating": "7.2",
+      "mainCast": [
+        "Leonardo DiCaprio",
+        "Tobey Maguire",
+        "Carey Mulligan"
+      ],
+      "awards": [
+        {
+          "name": "Oscar",
+          "category": "Best Achievement in Costume Design",
+          "year": "2014"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715845547/spiderman_poster_fofl2c.jpg",
+      "title": "Spiderman: No Way Home",
+      "releaseYear": "2021",
+      "director": "Jon Watts",
+      "description": "Peter Parker's secret identity is revealed to the entire world. Desperate for help, Peter turns to Doctor Strange to make the world forget that he is Spider-Man. The spell goes horribly wrong and shatters the multiverse, bringing in monstrous villains that could destroy the world.",
+      "genre": "Action",
+      "distributor": "Sony Pictures Motion Picture Group",
+      "runningTime": 148,
+      "rating": "8.2",
+      "mainCast": [
+        "Tom Holland",
+        "Zendaya",
+        "Benedict Cumberbatch"
+      ],
+      "awards": [
+        {
+          "name": "Academy of Science Fiction, Horror and Fantasy Films",
+          "category": "Best Superhero Film",
+          "year": "2022"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715846190/who-framed-roger-rabbit_poster_vitgsw.jpg",
+      "title": "Who Framed Roger Rabbit?",
+      "releaseYear": "1988",
+      "director": "Robert Zemeckis",
+      "description": "When a cartoon rabbit is accused of murder, he enlists the help of a burnt out private investigator to prove his innocence.",
+      "genre": "Comedy",
+      "distributor": "Buena Vista Pictures Distribution",
+      "runningTime": 104,
+      "rating": "7.7",
+      "mainCast": [
+        "Bob Hoskins",
+        "Christopher Lloyd",
+        "Joanna Cassidy"
+      ],
+      "awards": [
+        {
+          "name": "Academy of Science Fiction, Horror and Fantasy Films",
+          "category": "Best Fantasy Film",
+          "year": "1990"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715846542/amelie_poster_kctasw.jpg",
+      "title": "Amelie",
+      "releaseYear": "2001",
+      "director": "Jean-Pierre Jeanut",
+      "description": "Despite being caught in her imaginative world, Amelie, a young waitress, decides to help people find happiness. Her quest to spread joy leads her on a journey where she finds true love. Young Amélie Poulain works in a Paris café, lives alone and helps people, surreptitiously.",
+      "genre": "Romance",
+      "distributor": "Miramax",
+      "runningTime": 122,
+      "rating": "8.3",
+      "mainCast": [
+        "Audrey Tautou",
+        "Mathieu Kassovitz",
+        "Rufus"
+      ],
+      "awards": [
+        {
+          "name": "BAFTA Awards",
+          "category": "Best Screenplay - Original",
+          "year": "1997"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715847033/meangirls-poster_dxskjv.jpg",
+      "title": "Mean Girls",
+      "releaseYear": "2004",
+      "director": "Mark Waters",
+      "description": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George. Her parents being zoologists, Cady Heron has never known what \"high school\" truly meant.",
+      "genre": "Comedy",
+      "distributor": "Paramount Pictures",
+      "runningTime": 97,
+      "rating": "7.1",
+      "mainCast": [
+        "Lindsay Lohan",
+        "Rachel McAdams",
+        "Tina Fey"
+      ],
+      "awards": [
+        {
+          "name": "MTV Movie + TV Awards",
+          "category": "Best Female Performance",
+          "year": "2005"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715847310/darkknight_poster_xlpkod.jpg",
+      "title": "The Dark Knight",
+      "releaseYear": "2008",
+      "director": "Christopher Nolan",
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "genre": "Action",
+      "distributor": "Warner Bros. Pictures",
+      "runningTime": 152,
+      "rating": "9",
+      "mainCast": [
+        "Christian Bale",
+        "Gary Oldman",
+        "Heath Ledger"
+      ],
+      "awards": [
+        {
+          "name": "Oscar",
+          "category": "Best Actor in a Supporting Role",
+          "year": "2009"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715847501/shawshank_poster_p1xng0.jpg",
+      "title": "The Shawshank Redemption",
+      "releaseYear": "1994",
+      "director": "Frank Darabont",
+      "description": "In 1947, Andy Dufresne (Tim Robbins), a banker in Maine, is convicted of murdering his wife and her lover, a golf pro. Since the state of Maine has no death penalty, he is given two consecutive life sentences and sent to the notoriously harsh Shawshank Prison.",
+      "genre": "Drama",
+      "distributor": "Columbia Pictures",
+      "runningTime": 142,
+      "rating": "9.3",
+      "mainCast": [
+        "Tim Robbins",
+        "Morgan Freeman"
+      ],
+      "awards": [
+        {
+          "name": "Dallas Fort Worth Critics Awards",
+          "category": "Best Cinematography",
+          "year": "1995"
+        }
+      ],
+      "id": 21
+    },
+    {
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715847996/forrestgump_poster_le4peb.jpg",
+      "title": "Forrest Gump",
+      "releaseYear": "1994",
+      "director": "Robert Zemeckis",
+      "description": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+      "genre": "Drama",
+      "distributor": "Paramount Pictures",
+      "runningTime": 142,
+      "rating": "8.8",
+      "mainCast": [
+        "Tom Hanks"
+      ],
+      "awards": [
+        {
+          "name": "Oscar",
+          "category": "Best Actor in a Leading Role",
+          "year": "1995"
+        }
+      ],
+      "id": 22
+    },
+    {
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715848324/cats_poster_a0dzrp.jpg",
+      "title": "Cats",
+      "releaseYear": "2019",
+      "director": "Tom Hooper",
+      "description": "A tribe of cats called the Jellicles must decide yearly which one will ascend to the Heaviside Layer and come back to a new Jellicle life.",
+      "genre": "Drama",
+      "distributor": "Universal Pictures",
+      "runningTime": 110,
+      "rating": "2.8",
+      "mainCast": [
+        "Judi Dench",
+        "Idris Elba",
+        "Jennifer Hudson"
+      ],
+      "awards": [
+        {
+          "name": "Razzie Awards",
+          "category": "Worst Picture",
+          "year": "2020"
+        }
+      ],
+      "id": 23
+    },
+    {
+      "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715848591/batmanrobin_poster_chhvqo.jpg",
+      "title": "Batman & Robin",
+      "releaseYear": "1997",
+      "director": "Joel Schumacher",
+      "description": "Batman and Robin try to keep their relationship together even as they must stop Mr. Freeze and Poison Ivy from freezing Gotham City.",
+      "genre": "Action",
+      "distributor": "Warner Bros. Pictures",
+      "runningTime": 125,
+      "rating": "3.8",
+      "mainCast": [
+        "George Clooney",
+        "Arnold Schwarzenegger",
+        "Chris O'Donnell"
+      ],
+      "awards": [
+        {
+          "name": "Blockbuster Entertainment Awards",
+          "category": "Favorite Actress - Sci-fi",
+          "year": "1998"
+        }
+      ],
+      "id": 24
     }
   ],
   "bookings": [
@@ -207,11 +610,32 @@
       "movieId": 5
     },
     {
-      "fullName": "Ironhacker",
-      "daysBooked": 6,
-      "bookingDate": "Mon May 20 2024",
-      "movieId": 3,
+      "fullName": "María Ramirez",
+      "daysBooked": 3,
+      "bookingDate": "Fri May 17 2024",
+      "movieId": 8,
       "id": 4
+    },
+    {
+      "fullName": "Diego Cerezo",
+      "daysBooked": 4,
+      "bookingDate": "Thu May 23 2024",
+      "movieId": 11,
+      "id": 5
+    },
+    {
+      "fullName": "Samuel Pérez",
+      "daysBooked": 3,
+      "bookingDate": "Fri May 17 2024",
+      "movieId": 16,
+      "id": 6
+    },
+    {
+      "fullName": "Cristina Ferreiro",
+      "daysBooked": 8,
+      "bookingDate": "Thu May 16 2024",
+      "movieId": 18,
+      "id": 7
     }
   ]
 }
