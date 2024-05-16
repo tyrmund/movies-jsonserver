@@ -30,17 +30,20 @@
       "id": 1
     },
     {
-      "id": 2,
       "image": "https://res.cloudinary.com/dtetsfefb/image/upload/v1715325736/howlsmovingcastle_poster_socwyo.jpg",
       "title": "Howl's Moving Castle",
       "releaseYear": "2004",
       "director": "Hayao Miyazaki",
+      "description": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+      "genre": "fantasy",
+      "distributor": "Ghibli",
+      "runningTime": 90,
+      "rating": 8.2,
       "mainCast": [
         "Christian Bale",
         "Jean Simmons",
         "Billy Crystal"
       ],
-      "description": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
       "awards": [
         {
           "name": "Sitges",
@@ -48,10 +51,7 @@
           "year": "2004"
         }
       ],
-      "genre": "fantasy",
-      "distributor": "Ghibli",
-      "runningTime": 119,
-      "rating": 8.2
+      "id": 2
     },
     {
       "id": 3,
@@ -205,6 +205,34 @@
       "bookingDate": "Fri May 10 2024",
       "daysBooked": 7,
       "movieId": 5
+    },
+    {
+      "fullName": "Ironhacker",
+      "daysBooked": 3,
+      "bookingDate": "Wed May 29 2024",
+      "movieId": 2,
+      "id": 4
+    },
+    {
+      "fullName": "John Doe",
+      "daysBooked": 3,
+      "bookingDate": "Wed May 29 2024",
+      "movieId": 3,
+      "id": 5
+    },
+    {
+      "fullName": "Rodolfo Bittkau",
+      "daysBooked": 3,
+      "bookingDate": "Sun May 19 2024",
+      "movieId": 3,
+      "id": 6
+    },
+    {
+      "fullName": "Christian Bittkau",
+      "daysBooked": 2,
+      "bookingDate": "Mon May 27 2024",
+      "movieId": 3,
+      "id": 7
     }
   ]
 }
